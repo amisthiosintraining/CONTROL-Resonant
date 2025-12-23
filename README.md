@@ -36,4 +36,4 @@ Delete the following:
 <br>`data_pc\textures\characters\andro\jesse\tops\jesse_civilian_tanktop_d.tex`
 
 - Please note that these retextures will conflict with other retextures listed above, so please make sure that you have removed any `[retexture]_n.tex`, `[retexture]_s.tex` and/or `[retexture]_sa.tex` that belong to other retextures.
-- In some instances you may have to exist and boot up the game again to see results. 
+- In some instances you may have to exit and boot up the game again to see results. 
